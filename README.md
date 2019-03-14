@@ -4,4 +4,4 @@ Projeto feito através do curso de React + Redux ministrado pela Cod3r Cursos, o
 
 # Observações
 
-- O Frontend ainda não possui Redux, assim que acrescentar, atualizarei.s
+- O Frontend ainda não possui Redux, assim que acrescentar, atualizarei.
