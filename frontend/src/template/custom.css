@@ -1,3 +1,13 @@
+body
+	{
+		background-color:white;
+	}
+
+	* {
+		padding:0px;
+		margin:0px;
+	}
+
 .btn {
   margin-right: 5px;
 }
@@ -12,13 +22,29 @@
   padding-bottom: 60px;
 }
 
+.container{
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
 .nav-custom{
   position: relative;
-  right: 113px;
   width: 100vw; /* vw = largura --- vh = altura */
   border-radius: 0px !important; /* você não vai entrar? Então entra pq é importante */
   background-color: #009bfb;
   border-color: #009bfb;
+}
+
+.margem{
+  padding: 0 0 15px 15px;
+}
+
+.table {
+  width: 96%;
+  max-width: 100%;
+  margin-bottom: 20px;
+  margin-left: 15px
 }
 
 .navbar-inverse .navbar-brand{
@@ -31,6 +57,7 @@
 
 ul {
   list-style: none;
+  font-family: 'Montserrat', sans-serif;
 }
 
 ul li {

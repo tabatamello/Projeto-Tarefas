@@ -10,7 +10,7 @@ export default props => {
         }
     }
     return (
-        <div role='form' className='todoForm' style={{display:'flex'}} >
+        <div role='form' className='todoForm margem' style={{display:'flex'}} >
                 <input id='description' className='form-control'
                     style={{width: '87%',marginRight: '10px'}}
                     placeholder='Adicione uma tarefa' 

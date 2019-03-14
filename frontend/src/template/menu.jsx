@@ -2,7 +2,7 @@ import React from 'react'
 
 export default props => (
     <nav className='navbar navbar-inverse bg-inverse nav-custom'>
-        <div className='container'>
+
             <div className='navbar-header'>
                 <a className='navbar-brand' href='#'>
                     <i className='fa fa-calendar-check-o'></i> TodoApp
@@ -15,6 +15,6 @@ export default props => (
                     <li><a href='#/todos'> Tarefas </a></li>
                 </ul>
             </div>
-        </div>
+
     </nav>
 )
