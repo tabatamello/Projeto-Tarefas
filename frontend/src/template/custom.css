@@ -36,6 +36,12 @@ body
   border-color: #009bfb;
 }
 
+.collapse {
+  display: block !important;
+}
+
+
+
 .margem{
   padding: 0 0 15px 15px;
 }
@@ -53,6 +59,11 @@ body
 
 .navbar-inverse .navbar-nav>li>a {
   color: #fff
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border: 0;
+
 }
 
 ul {
